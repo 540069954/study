@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0eac185-f8bd-4c62-877e-f41958256fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyNote/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyNote/OOP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codedir/hannuota.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codedir/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StudyNote/OOP">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+            <state relative-caret-position="545">
+              <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -92,7 +83,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/oop/bin" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -198,11 +189,18 @@
       <option name="presentableId" value="Default" />
       <updated>1558489125595</updated>
     </task>
+    <task id="LOCAL-00001" summary="msg">
+      <created>1558673288883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558673288883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1437" height="846" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16870065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -214,7 +212,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32913166" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32913166" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -224,6 +222,13 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="msg" />
+    <option name="LAST_COMMIT_MESSAGE" value="msg" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../test.py">
@@ -249,8 +254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StudyNote/OOP">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        <state relative-caret-position="545">
+          <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
         </state>
       </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
